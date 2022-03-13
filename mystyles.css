@@ -1,0 +1,25 @@
+.secondrow {
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-content: flex-start;
+  align-items:stretch;
+}
+.secondrow2 {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  align-content: flex-start;
+  align-items:stretch;
+
+}
+.chartOptions {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-content: flex-start;
+  align-items:stretch;
+}
+  #map {
+  height: 40vh;
+}
